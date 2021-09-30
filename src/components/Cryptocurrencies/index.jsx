@@ -3,7 +3,7 @@ import React from 'react';
 const Cryptocurrencies = () => {
     return (
         <div>
-            Cryptocurrencies
+            <h3>crypto</h3>
         </div>
     );
 };
