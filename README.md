@@ -9,4 +9,4 @@ Technologies:
 - Lib: antd, chartjs 
 
 I also deploy it on Netlify, feel free to check in
-https://cryptoappnchart.netlify.app/
+https://andy-crypto-app.netlify.app/crypto/2
